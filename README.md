@@ -7,7 +7,9 @@ This project dives deep into the Netflix dataset to uncover hidden patterns, con
 
 Chinmay Pote
 Data Analyst
+
 🔗 www.linkedin.com/in/chinmay-pote
+
 📧 chinpote12@gmail.com
 
 ## 🔍 About the Project
